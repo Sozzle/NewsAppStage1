@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News App Stage 1</string>
+    <string name="title">Title</string>
+    <string name="section">Section</string>
+    <string name="date">Date</string>
+    <string name="author">Author</string>
+    <string name="island_hop_your_way_around_scotlands_secret_arts_and_crafts_hubs">Island Hop Your Way Around Scotlands Secret Arts And Crafts Hubs</string>
+    <string name="discover_the_uk">Discover The Uk</string>
+    <string name="june_2018">19 June 2018</string>
+    <string name="laura_martin">Laura Martin</string>
+</resources>
