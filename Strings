@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">News App Stage 1</string>
+    <string name="title">Title</string>
+    <string name="section">Section</string>
+    <string name="date">Date</string>
+    <string name="author">Author</string>
+    <string name="island_hop_your_way_around_scotlands_secret_arts_and_crafts_hubs">Island Hop Your Way Around Scotlands Secret Arts And Crafts Hubs</string>
+    <string name="discover_the_uk">Discover The Uk</string>
+    <string name="june_2018">19 June 2018</string>
+    <string name="laura_martin">Laura Martin</string>
+    <string name="revolutionary_rodin_and_tahiti_before_Gauguin_the_week_in_art">Revolutionary Rodin And Tahiti Before Gauguin The Week In Art</string>
+    <string name="art_and_design">Art And Design</string>
+    <string name="april_2018">20 April 2018</string>
+    <string name="jonathan_jones">Jonathan Jones</string>
+    <string name="the_pop_up_crafts_shop_helping_war_torn_communities">The Pop Up Crafts Shop Helping War Torn Communities</string>
+    <string name="life_and_style">Life And Style</string>
+    <string name="november_2017">05 November 2017</string>
+    <string name="ed_cumming">Ed Cumming</string>
+</resources>
